@@ -1,0 +1,1 @@
+cppast.exe --file t.cpp -v --msvc_extensions --msvc_compatibility -I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0" -D UNICODE -D _UNICODE -D _DEBUG -D _CONSOLE
