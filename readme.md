@@ -1,6 +1,7 @@
 # Tutorial
 
 1. Install Windows SDK 
+
 1.1. Configure test.bat
 
 2.	Install LLVM 5.0.1 x64
