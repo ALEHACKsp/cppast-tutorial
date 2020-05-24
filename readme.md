@@ -2,9 +2,9 @@
 
 1. Install Windows SDK 
 
-Configure test.bat
+2. Configure test.bat
 
-2.	Install LLVM 5.0.1 x64
+3.	Install LLVM 5.0.1 x64
 	path:  D:/Program Files/LLVM
 	
 ## Example 
